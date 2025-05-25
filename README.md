@@ -16,5 +16,5 @@ A simple, user-friendly Java-based offline To-Do List application for managing d
 ### Prerequisites
 
 - Java JDK 8 or above
--IDE  IntelliJ IDEA
+- IDE  IntelliJ IDEA
 
